@@ -1,0 +1,43 @@
+{
+    "class_id": "com-snaplogic-snaps-salesforce-salesforceaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "LibertyMutualPOC"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Salesforce_Stage"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "loginUrl": {
+                "value": "https://lm--stage.cs37.my.salesforce.com"
+            },
+            "password": {
+                "fp": "9a6b15a4a2420e42ce0a90f219a13765a04cbddbfa6b91aff1b8ec866fbc68e3",
+                "key": "account-cloud-managed-5d53e6673e4d2503b680494b-2019-08-14T10:46:09-362477+00:00",
+                "sym_iv": "lsLMLppS9wz40/G25qmdBQ==",
+                "sym_key": "18KSzn2jeOJlI8hjDaQVXoLTSLicTvrjMCXw3FIn5+4JD7CD46BdH3+5HAcUIgsJykYz2xchpD9F4fIxIjEp+aKsrzq3ZsItCQiJoYp4bbB5IUGdd2yuv1PzrcD0Ba/bRDaf73R/UqXq5CaYGjil7hn6SJWSN7hLrw2+PRBjoHNx+7lJ8AJUgj0bOMcSvgQreh7AsP01AdtXgUuLEfpXTqujM7yV6bEvQCQpHzhCyayLY6bkjpLiNvjUH8AE7yy7ED/IJzElCAUwC5RQtCM43ya+970L4Dmf/piKFLJ3peX1r4FAYBXCHpJ2ZYA3gDSdIxpFyaXPzqG3vkYr72QMmw==",
+                "value": "mnAmzzTNl62/tPT0Uo3hBw=="
+            },
+            "sandbox": {
+                "value": false
+            },
+            "securityToken": {
+                "fp": "9a6b15a4a2420e42ce0a90f219a13765a04cbddbfa6b91aff1b8ec866fbc68e3",
+                "key": "account-cloud-managed-5d53e6673e4d2503b680494b-2019-08-14T10:46:09-362477+00:00",
+                "sym_iv": "FcMl1gzdhdlPdBot5Z7VSQ==",
+                "sym_key": "hW90SagoLYnoc53or1iuGGNiSMOebgqGkLTFeiqqCT+nJf5DMb04LAclVGkr5j4nyVleNg6xjlX6Vk4hg/K9bszQeNeiw1oQkMy6Z6ick7S6kg92zfxiHSyBGUhMZzMsrMDduGdjA+BAEf9mS4ZHjhaXcJhKHgnzLnbQcU+7JYAxkAS3Q8a87Ud/SDH9jJD8PBv3hbB2z6mh6t+dxep6hcqqpi9Xp/+gTDX9TL6vYnkdI3+LjHP6Y9N3JoqdZ6xxnuIav6xqhQQ8AxRUx01Rf3mpNCLh21pQ1mMDSB8D/TH76ihXdiT9kNd6sKUBhwgolginbY1rEL1ikA3HSRLebw==",
+                "value": "RH4uQk32uTFAM1lOASF/XX2inAeUcjz2K6q3Z90rgmM="
+            },
+            "username": {
+                "value": "grmdata.integration@libertymutual.com.stage"
+            }
+        },
+        "view_serial": 100
+    }
+}
